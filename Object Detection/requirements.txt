@@ -1,0 +1,27 @@
+Reqeuired Softwares
+------------------------
+You need jupyter notebook or you can run it on google colab as we did :).
+
+
+Required Libraries 
+------------------------
+numpy
+torch
+matplotlib
+xml
+PIL
+imageio
+scipy
+pathlib
+copy
+IPython
+tarfile
+sklearn
+google.colab
+cv2
+
+
+How to run
+-----------------------
+
+Just open and click run all cells. 
