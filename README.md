@@ -1,7 +1,7 @@
 # Computer-Vision
 
 (CS 783)
-This is collection of my assignments solved for Computer Vision class taught at IIT Kanpur
+This is collection of project done for Computer Vision class taught at IIT Kanpur
 
 It Consists of 4 Assigment:
 
